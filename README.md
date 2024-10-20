@@ -42,7 +42,7 @@ A simple and efficient Task Management App built with a MERN stack (MongoDB, Exp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dhruvi003/todoList-mern.git
+   [git clone https://github.com/dhruvi003/todoList-mern.git](https://github.com/dhruvi003/mern-todo.git)
    cd task-management-app/backend
 
 2. Install backend dependencies:
